@@ -2,7 +2,11 @@
 
 ## DESCRIPTION
 
-    The goal of this challenge is to develop a memory game. The game consists of a grid of cards. Each card has a symbol on one side. The cards are arranged randomly on the grid with the symbol face down. The player flips two cards over each turn. If the two cards have the same symbol, they remain face up. Otherwise, the cards flip back over after a short period of time. The goal of the game is to match all pairs of cards.
+- The goal of this challenge is to develop a memory game. The game consists of a grid of cards.
+- Each card has a symbol on one side. The cards are arranged randomly on the grid with the symbol face down.
+- The player flips two cards over each turn. If the two cards have the same symbol, they remain face up.
+- Otherwise, the cards flip back over after a short period of time.
+- The goal of the game is to match all pairs of cards.
 
 ## INSTRUCTIONS
 
