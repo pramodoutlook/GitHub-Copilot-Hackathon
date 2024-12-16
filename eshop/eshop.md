@@ -2,7 +2,8 @@
 
 ## DESCRIPTION
 
-    The goal of this challenge is to develop a shop cart. The shop cart should allow users to add and remove products.
+- The goal of this challenge is to develop a shop cart.
+- The shop cart should allow users to add and remove products.
 
 ## INSTRUCTIONS
 
